@@ -121,7 +121,7 @@
 	margin: 0 auto;
 	position: relative;
 	text-align: center;
-	background-image: url(../../../../../../StaticBlknWWhiteBackground.png);
+	background-image: url(StaticBlknWWhiteBackground.png);
 }.component-hero:not(.grid-container){max-width:1680px}@media screen and (max-width:47.9375em){.component-headline .subtext{padding:0 32px}.component-hero.grid-container{display:block!important}.component-hero .headline-group{
 	max-width: 375px;
 	color: rgba(0,0,0,1.00);
